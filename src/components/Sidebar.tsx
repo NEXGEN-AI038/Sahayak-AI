@@ -116,6 +116,9 @@ export function Sidebar({
             {demoMode ? 'Active' : 'Off'}
           </span>
         </div>
+        <p className="text-[10px] text-gray-400 text-center pt-1">
+          Developed by Sourav Mukherjee
+        </p>
       </div>
     </aside>
   );
